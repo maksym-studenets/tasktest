@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: tasktest
+
+application:
+  scheduled-jobs:
+    demo:
+      description
+ #     cron: "0 * * * * *"
